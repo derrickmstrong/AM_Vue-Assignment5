@@ -4,7 +4,6 @@ const app = Vue.createApp({
             inputTask: '',
             tasks: [],
             isTaskListVisible: true,
-            showButton: 'Show Task'
         }
     },
     methods: {
